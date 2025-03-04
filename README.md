@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a Master of Information and Data Science candidate at UC Berkeley who loves to build AI systems! My work spans machine learning, software engineering, and data science – from creating scalable ML APIs to developing multi-agent systems that boost code generation accuracy.
+I'm a Master of Information and Data Science candidate at UC Berkeley who loves to build AI systems! My work spans machine learning, software engineering, and data science – from creating scalable ML APIs to developing agentic systems that boost code generation accuracy.
 
 ---
 
